@@ -1,4 +1,3 @@
-use slack::{Event, RtmClient};
 extern crate slack-hook;
 use slack_hook::{Slack, PayloadBuilder};
 
